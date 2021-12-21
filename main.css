@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#checkPage{
+    color:wheat
+}
+body{
+    min-height: 170px;
+    width: 300px;
+    border: 1px solid tomato;
+}
