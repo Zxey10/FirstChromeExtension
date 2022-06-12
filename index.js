@@ -6,7 +6,6 @@ fetch("links.json")
       return response.json();
 })
 .then((json) => {
-      console.log(json);
       redirectUrl = json.REDIRECT_URL
       blockedUrl = json.BLOCKED_URL
 });
