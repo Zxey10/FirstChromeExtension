@@ -6,6 +6,10 @@
     color:wheat
 }
 body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
     min-height: 170px;
     width: 300px;
     border: 1px solid tomato;
